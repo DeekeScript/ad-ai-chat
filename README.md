@@ -10,12 +10,12 @@
 
 > Android端截图
 
-<div style="display: flex;flex-wrap: wrap;gap: 24px;">
-    <img src="./android/private-user.jpg" style="width: calc((100% - 48px) / 3);">
-    <img src="./android/private-group.jpg" style="width: calc((100% - 48px) / 3);">
-    <img src="./android/user-details.jpg" style="width: calc((100% - 48px) / 3);">
-    <img src="./android/juben.jpg" style="width: calc((100% - 48px) / 3);">
-    <img src="./android/ai.jpg" style="width: calc((100% - 48px) / 3);">
+<div style="justify-content: space-between;flex-wrap:wrap;width:100%;">
+    <img src="./android/private-user.jpg" style="width:24%;">
+    <img src="./android/private-group.jpg" style="width:24%;">
+    <img src="./android/user-details.jpg" style="width:24%;">
+    <img src="./android/juben.jpg" style="width:24%;">
+    <img src="./android/ai.jpg" style="width:24%;">
 </div>
 
 
