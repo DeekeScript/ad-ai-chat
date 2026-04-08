@@ -140,12 +140,12 @@
 ### PC端截图
 
 <div style="justify-content: space-between;flex-wrap:wrap;width:100%;">
-    <img src="./image.png" style="width:32%;">
-    <img src="./image1.png" style="width:32%;">
-    <img src="./image2.png" style="width:32%;">
-    <img src="./image3.png" style="width:32%;">
-    <img src="./image4.png" style="width:32%;">
-    <img src="./image5.png" style="width:32%;">
+    <img src="./image.png" style="width:100%;">
+    <img src="./image-1.png" style="width:100%;">
+    <img src="./image-2.png" style="width:100%;">
+    <img src="./image-3.png" style="width:100%;">
+    <img src="./image-4.png" style="width:100%;">
+    <img src="./image-5.png" style="width:100%;">
 </div>
 
 ---
