@@ -5,6 +5,20 @@
 
 无论是经典小说、影视剧，还是你自定义的角色与故事，都可以自由切换。你不仅可以单聊角色，还能 **组建多角色群聊**，同时享受 AI 生成的高品质语音，音色饱满、感情丰富，让每一次聊天都身临其境。  
 
+
+### 支持Android与PC端
+
+> Android端截图
+
+<div style="display: flex;flex-wrap: wrap;gap: 24px;">
+    <img src="./android/private-user.jpg" style="width: calc((100% - 48px) / 3);">
+    <img src="./android/private-group.jpg" style="width: calc((100% - 48px) / 3);">
+    <img src="./android/user-details.jpg" style="width: calc((100% - 48px) / 3);">
+    <img src="./android/juben.jpg" style="width: calc((100% - 48px) / 3);">
+    <img src="./android/ai.jpg" style="width: calc((100% - 48px) / 3);">
+</div>
+
+
 ---
 
 ## 核心功能
