@@ -215,13 +215,13 @@
 
 ---
 
-## 🛒 获取源码
+## 🛒 产品体验 & 获取源码
 
 > 🚀 快速搭建你的 AI女友 / AI陪伴 / AI剧情 产品
 
-联系获取源码<a id="wechat"></a>：
+微信扫码联系体验<a id="wechat"></a>：
 
-**微信号：deeke2025**
+<img src="./weixin.jpg" style="width:240px;">
 
 ---
 
